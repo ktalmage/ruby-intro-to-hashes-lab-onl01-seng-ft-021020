@@ -8,7 +8,13 @@ end
 
 def monopoly
 	monopoly = {
+<<<<<<< HEAD
 	  :railroads =>{}
+=======
+	  :railroads => {
+	    :pieces => 4
+	  }
+>>>>>>> 9880439636fe9259bbb54b59f7cd2c3ad6cf809d
 	 }
 
 end
